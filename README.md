@@ -1,2 +1,2 @@
 # LoadingScreen
-A simple loading screen for a web app using HTML & CSS
+A simple loading screen for a website created using HTML & CSS
